@@ -1,0 +1,10 @@
+{
+  "nivel1": [
+    {"pregunta": "¿Cuánto es 5 + 3?", "respuesta": "8"},
+    {"pregunta": "¿Cuánto es 10 - 7?", "respuesta": "3"}
+  ],
+  "nivel2": [
+    {"pregunta": "¿Cuánto es 6 × 7?", "respuesta": "42"},
+    {"pregunta": "¿Cuánto es 48 ÷ 6?", "respuesta": "8"}
+  ]
+}
