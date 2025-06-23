@@ -1,10 +1,38 @@
 {
   "nivel1": [
-    {"pregunta": "¿Cuánto es 5 + 3?", "respuesta": "8"},
-    {"pregunta": "¿Cuánto es 10 - 7?", "respuesta": "3"}
+    { "pregunta": "¿Cuánto es 4 + 3?", "respuesta": "7" },
+    { "pregunta": "¿Cuánto es 10 - 2?", "respuesta": "8" },
+    { "pregunta": "¿Cuánto es 6 + 9?", "respuesta": "15" },
+    { "pregunta": "¿Cuánto es 12 - 4?", "respuesta": "8" },
+    { "pregunta": "¿Cuánto es 5 + 5?", "respuesta": "10" },
+    { "pregunta": "¿Cuánto es 9 - 6?", "respuesta": "3" },
+    { "pregunta": "¿Cuánto es 3 + 2?", "respuesta": "5" },
+    { "pregunta": "¿Cuánto es 15 - 7?", "respuesta": "8" },
+    { "pregunta": "¿Cuánto es 8 + 1?", "respuesta": "9" },
+    { "pregunta": "¿Cuánto es 10 - 9?", "respuesta": "1" }
   ],
   "nivel2": [
-    {"pregunta": "¿Cuánto es 6 × 7?", "respuesta": "42"},
-    {"pregunta": "¿Cuánto es 48 ÷ 6?", "respuesta": "8"}
+    { "pregunta": "¿Cuánto es 6 × 7?", "respuesta": "42" },
+    { "pregunta": "¿Cuánto es 8 × 5?", "respuesta": "40" },
+    { "pregunta": "¿Cuánto es 49 ÷ 7?", "respuesta": "7" },
+    { "pregunta": "¿Cuánto es 36 ÷ 6?", "respuesta": "6" },
+    { "pregunta": "¿Cuánto es 9 × 9?", "respuesta": "81" },
+    { "pregunta": "¿Cuánto es 56 ÷ 8?", "respuesta": "7" },
+    { "pregunta": "¿Cuánto es 12 × 3?", "respuesta": "36" },
+    { "pregunta": "¿Cuánto es 81 ÷ 9?", "respuesta": "9" },
+    { "pregunta": "¿Cuánto es 7 × 5?", "respuesta": "35" },
+    { "pregunta": "¿Cuánto es 63 ÷ 7?", "respuesta": "9" }
+  ],
+  "nivel3": [
+    { "pregunta": "¿Cuánto es 8 + 6 × 2?", "respuesta": "20" },
+    { "pregunta": "¿Cuánto es (14 - 5) × 2?", "respuesta": "18" },
+    { "pregunta": "¿Cuánto es 40 ÷ 5 + 3?", "respuesta": "11" },
+    { "pregunta": "¿Cuánto es 3 × 4 + 2?", "respuesta": "14" },
+    { "pregunta": "¿Cuánto es 18 ÷ 3 + 6?", "respuesta": "12" },
+    { "pregunta": "¿Cuánto es 2 × (3 + 5)?", "respuesta": "16" },
+    { "pregunta": "¿Cuánto es (12 + 8) ÷ 4?", "respuesta": "5" },
+    { "pregunta": "¿Cuánto es 10 + 2 × 5?", "respuesta": "20" },
+    { "pregunta": "¿Cuánto es 25 ÷ (5 + 0)?", "respuesta": "5" },
+    { "pregunta": "¿Cuánto es 6 × 6 - 10?", "respuesta": "26" }
   ]
 }
